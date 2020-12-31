@@ -3,13 +3,13 @@ GuessTheWord Application from Udacity Android Kotlin Developer Nanodegree progra
 
 Highlights:
 
-ViewModel
-SavedInstanceState
-LiveData
-Lifecycle Awareness
-LiveData Encapsulation & Backing Properties
-CountDownTimer
-ViewModelFactory
-LiveData Data Binding
-LiveData Map Transformation
+ViewModel\
+SavedInstanceState\
+LiveData\
+Lifecycle Awareness\
+LiveData Encapsulation & Backing Properties\
+CountDownTimer\
+ViewModelFactory\
+LiveData Data Binding\
+LiveData Map Transformation\
 Buzzer
